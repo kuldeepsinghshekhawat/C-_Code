@@ -1,0 +1,1 @@
+#include "this.h"//This will produce error if this.h is not in current folder
